@@ -12,7 +12,6 @@ function App() {
   return (
     <div>
       <Header />
-      {/* Each section wrapped inside an Element from react-scroll */}
       <Element name="home">
         <section id="home">
           <HeroSection />
