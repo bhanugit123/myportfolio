@@ -22,13 +22,13 @@ const Work = () => {
     },
     {
       role: "Associate Software Engineer, Product Development Team",
-      company: "Tata Consultancy Services",
+      company: "Aetna Health Care (TATA)",
       duration: "October 2020 – February 2023",
       location: "Hyderabad, India",
       icon: <FaServer className="w-6 h-6" />,
       skills: ["ReactJS", "Node.js", "Java", "SQL", "PostgreSQL", "Jenkins", "Docker"],
       description: [
-        "Led the design and development of enterprise-level microservices application for an Automobile Group, supporting over 100k+ concurrent users.",
+        "Led the design and development of enterprise-level microservices application for an Health Care Group, supporting over 100k+ concurrent users.",
         "Optimized SQL queries and indexing for a PostgreSQL database, decreasing query response times by 50% and improving system throughput.",
         "Refactored a legacy C++ codebase, eliminating duplicative logic to reduce code volume by 20% and improve maintainability.",
         "Implemented CI/CD pipelines using Jenkins and Docker, cutting average release cycle times by 40%.",
